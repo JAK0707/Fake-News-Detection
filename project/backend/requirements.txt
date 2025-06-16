@@ -1,0 +1,30 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+sentence-transformers
+pandas
+python-dotenv
+serpapi
+ollama
+streamlit
+scikit-learn
+requests
+
+# AI/ML dependencies for your RAG implementation
+# langchain==0.0.350
+# langchain-community==0.0.6
+# sentence-transformers==2.2.2
+# faiss-cpu==1.7.4
+# requests==2.31.0
+
+# SerpAPI for news search
+# google-search-results==2.4.2
